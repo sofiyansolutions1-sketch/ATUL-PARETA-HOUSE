@@ -56,7 +56,7 @@ export default function Footer() {
 
         <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row justify-between items-center gap-6">
           <p className="text-xs font-medium tracking-wide">
-            © {currentYear} Elite Stay PG Accommodation. All rights reserved.
+            © {currentYear} ATUL PARETA HOUSE. All rights reserved.
           </p>
           <div className="flex gap-8 text-xs font-bold uppercase tracking-[0.2em] text-stone-500">
             <span>Built for Tomorrow</span>

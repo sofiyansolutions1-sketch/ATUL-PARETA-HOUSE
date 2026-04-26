@@ -14,7 +14,7 @@ const rooms = [
   {
     id: 2,
     name: 'Double Sharing Room',
-    price: '3,500',
+    price: '7,000',
     rating: '4.9',
     reviews: '86',
     image: 'https://iili.io/B6bbSn9.png',

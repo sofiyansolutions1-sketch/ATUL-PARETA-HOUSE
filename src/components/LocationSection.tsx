@@ -41,7 +41,7 @@ export default function LocationSection() {
           </div>
           <div className="bg-stone-50 p-4 rounded-2xl border border-stone-100">
             <p className="text-[10px] text-stone-400 font-bold uppercase tracking-widest mb-1">Railway Station</p>
-            <p className="font-bold text-stone-700 text-sm">4.5km away</p>
+            <p className="font-bold text-stone-700 text-sm">1km away</p>
           </div>
         </div>
       </div>
